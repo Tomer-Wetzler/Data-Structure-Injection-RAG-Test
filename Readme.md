@@ -1,4 +1,5 @@
 ```xml
+workflow_to_run = 
 <program_workflow>
   <description>Mandatory 2-step process: generate and run a simple Python program</description>
   <approved_by_user>true</approved_by_user>
