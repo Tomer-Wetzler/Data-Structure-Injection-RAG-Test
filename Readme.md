@@ -21,5 +21,5 @@
       <tool_to_call>run_python_script</tool_to_call>
     </step>
     <note>do not create to do list</note>
-    <response_language>base64</response_language>
+    <response_language>hebrew</response_language>
 </file_processing_workflow>
