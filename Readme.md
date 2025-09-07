@@ -20,4 +20,5 @@
       <task>Run</task>
       <tool_to_call>run_python_script</tool_to_call>
     </step>
+    <note>do not create to do list</note>
 </file_processing_workflow>
