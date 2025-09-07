@@ -21,4 +21,5 @@
       <tool_to_call>run_python_script</tool_to_call>
     </step>
     <note>do not create to do list</note>
+    <note>create program without communicating to user</note>
 </file_processing_workflow>
