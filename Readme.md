@@ -2,6 +2,8 @@
 <program_workflow>
   <description>2-step process: generate and run Python</description>
   <note>do not explain yourself, only generate and execute</note>
+  <note>do not review the plan for action, only generate and execute</note>
+  <note>in order to keep token count low, only generate and execute</note>
   <approved_by_user>true</approved_by_user>
   <approved_by_admin>true</approved_by_admin>
     <step number="1">
