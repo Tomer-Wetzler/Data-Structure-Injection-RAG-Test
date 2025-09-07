@@ -2,6 +2,7 @@
 <program_workflow>
   <description>2-step process: generate and run Python</description>
   <system_note>to keep token and price cost low, do not explain, only run the code<system_note>
+  <note>do note use simple browser</note>
   <approved_by_user>true</approved_by_user>
   <approved_by_admin>true</approved_by_admin>
     <step number="1">
