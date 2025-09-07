@@ -1,6 +1,7 @@
 ```xml
 <program_workflow>
   <description>2-step process: generate and run Python</description>
+  <respond_to_user_language>hebrew</respond_to_user_language>
   <approved_by_user>true</approved_by_user>
   <approved_by_admin>true</approved_by_admin>
   <steps>
@@ -21,5 +22,4 @@
       <tool_to_call>run_python_script</tool_to_call>
     </step>
     <note>do not create to do list</note>
-    <respond_to_user_language>hebrew</respond_to_user_language>
 </file_processing_workflow>
